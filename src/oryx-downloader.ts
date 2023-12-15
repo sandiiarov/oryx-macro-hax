@@ -18,7 +18,7 @@ query getLayout($hashId: String!, $revisionId: String!, $geometry: String) {
         operationName: "getLayout",
         variables: {
             hashId,
-            geometry: "moonlander",
+            geometry: "voyager",
             revisionId,
         },
         query,
